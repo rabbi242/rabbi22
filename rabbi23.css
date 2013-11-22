@@ -1,0 +1,151 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+#wraper       {
+		       background:#FFFFFF;
+		       width:862px;
+		       height:2000px;
+		       margin-left:60px;
+		       margin-right:50px;
+		    }
+
+#heading h1    {
+               color:#0066FF;
+		       font-size:35px;
+		    }
+
+#fast p    {
+               color:#0066FF;
+		    }
+
+		   
+.for       {
+               color:#0066FF;
+		    }		  
+
+#sec       {
+              display:block;
+		      float:left;
+	       }		  
+	
+#tha      {
+             display:block;
+	    	 float:left;
+	    	 margin-left:5px;
+		 }	
+	
+#tha th   {
+             color:#0066FF;
+	      }
+	   	   
+#for     {
+            display:block;
+	        float:left;
+	        margin-left:5px;
+		 }
+
+#for th  {
+            color:#0066FF;
+		 }
+
+#five    {
+            display:block;
+		    float:left;
+		 }
+
+#six     {
+            display:block;
+		    float:left;
+		    margin-left:10px;
+		  }
+		
+.fiveth   {
+            color:#0066FF;
+		  }
+		 
+.td      {
+           color:#0066FF;
+	     }
+	 
+.tr     {
+           color:#0066FF;
+	    }
+	  
+.tone   {
+           color:#0066FF;
+	    }
+	
+#seven  {
+           display:block;
+		   float:left;
+	     }
+	   
+#seven th {
+            color:#0066FF;
+		  }	
+		  
+#heading2 h2 {
+             color:#0066FF;
+		     }	
+
+#eight      {
+             float:left;}
+		      
+#eight th   {
+              color:#0066FF;
+		    }
+		   
+.normal    {
+              background:#CCCCCC;
+		   }	
+		 
+.nor       {
+              background:#CCCCCC;
+		    }
+		
+.mal       {
+              background:#CCCCCC;
+		   }
+     
+.a        {
+              background:#CCCCCC;
+	      }
+	   
+.b        {
+              background:#CCCCCC;
+	     }
+	   
+.c       {
+             background:#CCCCCC;
+          }
+	   
+#h3 h3    {
+           color:#0066FF;
+		  }	   	   
+
+#h3     {
+          display:block;
+	      float:left;
+	    }
+	   
+#p      {
+		   float:left;
+		   display:block;
+		   margin-top:5px;
+		   margin-left:7px;
+	    }
+	   
+#last  {
+           float:left;
+		   position:relative;
+	       clear:both;
+		}	
+		
+#h      {
+	      position:relative;
+	      float:left;
+	   }		   	   	   
+		
+		 	   		   	     	  	 		 		

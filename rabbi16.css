@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+#wraper{background:#FFFFFF; height:7120px; padding:100px;}
+
+#a img{float:left; margin-right:30px;}
+#a ul{ float:left;}
+#a h2{color:#CC3333;}
+
+#v img{float:left; margin-right:30px;}
+#v ul{ float:left;}
+#v h2{color:#CC3333; clear:both;}
+
+#b img{float:left; margin-right:30px;}
+#b ul{ float:left;}
+#b h2{color:#CC3333; clear:both;}
+
+#c img{float:left; margin-right:30px;}
+#c ul{ float:left;}
+#c h2{color:#CC3333; clear:both;}
+
+#d img{float:left; margin-right:30px;}
+#d ul{ float:left;}
+#d h2{color:#CC3333; clear:both;}
+
+#e img{float:left; margin-right:30px;}
+#e ul{ float:left;}
+#e h2{color:#CC3333; clear:both;}
+
+#f img{float:left; margin-right:30px;}
+#f ul{ float:left;}
+#f h2{color:#CC3333; clear:both;}
+
+#z h2{clear:both; color:#CC3333;}
+
+#g h2{color:#CC3333;}
+#g p {font-size:20px;}
+#g img{float:left; margin-right:30px;}
+
+#h img{float:left; margin-right:30px;}
+#h p {clear:both; font-size:20px;}
+
+#i p {clear:both; font-size:20px; clear:both;}
+#i img {float:left; margin-right:30px;}
+
+#j p {clear:both; font-size:20px; clear:both;}
+#j img {float:left; margin-right:30px;}
+
+#k p {clear:both; font-size:20px; clear:both;}
+#k img {float:left; margin-right:30px;}
+#l p {clear:both; font-size:20px; clear:both;}
+#l img {float:left; margin-right:30px;}
+
+#m p {clear:both; font-size:20px; clear:both;}
+#m img {float:left; margin-right:30px;}
+
+#n p {clear:both; font-size:20px; clear:both;}
+#n img {float:left; margin-right:30px;}
+
+#o img{float:left; margin-right:30px;}
+#o ul{ float:left;}
+#o h2{color:#CC3333; clear:both;}
+
+#p img{float:left; margin-right:30px;}
+#p ul{ float:left;}
+#p h2{color:#CC3333; clear:both;}
+
+#q img{float:left; margin-right:30px;}
+#q ul{ float:left;}
+#q h2{color:#CC3333; clear:both;}
+
+#r img{float:left; margin-right:30px;}
+#r ul{ float:left;}
+#r h2{color:#CC3333; clear:both;}
+
+#s img{float:left; margin-right:30px;}
+#s ul{ float:left;}
+#s h2{color:#CC3333; clear:both;}
+
+#t img{float:left; margin-right:30px;}
+#t ul{ float:left;}
+#t h2{color:#CC3333; clear:both;}
+
+#z img{ margin-left:90px;}
